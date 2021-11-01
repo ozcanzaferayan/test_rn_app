@@ -1,5 +1,5 @@
 {
-  "name": "myminiapp",
+  "name": "@zaferayan/myminiapp",
   "version": "0.0.1",
   "private": false,
   "scripts": {
@@ -35,5 +35,17 @@
   },
   "keywords": [
     "ern-miniapp"
-  ]
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozcanzaferayan/test_rn_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozcanzaferayan/test_rn_app/issues"
+  },
+  "homepage": "https://github.com/ozcanzaferayan/test_rn_app#readme",
+  "description": ""
 }
